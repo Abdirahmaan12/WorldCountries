@@ -19,4 +19,6 @@ function Country({country}) {
   )
 }
 
+
+// fixed
 export default Country
