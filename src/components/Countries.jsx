@@ -12,7 +12,7 @@ function Countries() {
       setCountries([
           {
       name: "Afghanistan",
-      flag: "./public/flag-afghanistan.jpg",
+      flag: "/flags/flag-afghanistan.jpg",
       currency: "Afghan afghani",
       continent: "Asia",
       description:
@@ -20,7 +20,7 @@ function Countries() {
     },
     {
       name: "Albania",
-      flag: "../public/flag-albania.png",
+      flag: "./flags/flag-albania.png",
       currency: "Albanian lek",
       continent: "Europe",
       description:
@@ -28,7 +28,7 @@ function Countries() {
     },
     {
       name: "Argentina",
-      flag: "../public/flag-argentina.jpg",
+      flag: "./flags/flag-argentina.jpg",
       currency: "Argentine peso",
       continent: "South America",
       description:
@@ -36,7 +36,7 @@ function Countries() {
     },
     {
       name: "Brazil",
-      flag: "../public/flag-brazil.png",
+      flag: "./flags/flag-brazil.png",
       currency: "Brazilian real",
       continent: "South America",
       description:
@@ -44,7 +44,7 @@ function Countries() {
     },
     {
       name: "China",
-      flag: "../public/flag-china.png",
+      flag: "./flags/flag-china.png",
       currency: "Renminbi (Yuan)",
       continent: "Asia",
       description:
@@ -52,7 +52,7 @@ function Countries() {
     },
     {
       name: "Djibouti",
-      flag: "../public/flag-djibouti.png",
+      flag: "./flags/flag-djibouti.png",
       currency: "Djiboutian franc",
       continent: "Africa",
       description:
@@ -60,7 +60,7 @@ function Countries() {
     },
     {
       name: "Ethiopia",
-      flag: "../public/flag-ethiopia.png",
+      flag: "./flags/flag-ethiopia.png",
       currency: "Ethiopian birr",
       continent: "Africa",
       description:
@@ -68,7 +68,7 @@ function Countries() {
     },
     {
       name: "France",
-      flag: "../public/flag-france.png",
+      flag: "./flags/flag-france.png",
       currency: "Euro",
       continent: "Europe",
       description:
@@ -76,7 +76,7 @@ function Countries() {
     },
     {
       name: "India",
-      flag: "../public/flag-india.png",
+      flag: "./flags/flag-india.png",
       currency: "Indian rupee",
       continent: "Asia",
       description:
@@ -84,7 +84,7 @@ function Countries() {
     },
     {
       name: "Japan",
-      flag: "../public/flag-japan.png",
+      flag: "./flags/flag-japan.png",
       currency: "Japanese yen",
       continent: "Asia",
       description:
@@ -92,7 +92,7 @@ function Countries() {
     },
     {
       name: "Kenya",
-      flag: "../public/flag-kenya.png",
+      flag: "./flags/flag-kenya.png",
       currency: "Kenyan shilling",
       continent: "Africa",
       description:
@@ -100,7 +100,7 @@ function Countries() {
     },
     {
       name: "Nepal",
-      flag: "../public/flag-nepal.png",
+      flag: "./flags/flag-nepal.png",
       currency: "Nepalese rupee",
       continent: "Asia",
       description:
@@ -108,7 +108,7 @@ function Countries() {
     },
     {
       name: "Palestine",
-      flag: "../public/flag-palestine.jpg",
+      flag: "./flags/flag-palestine.jpg",
       currency:
         "Palestinian pound (historical) / Israeli shekel & Jordanian dinar (used)",
       continent: "Asia",
@@ -117,7 +117,7 @@ function Countries() {
     },
     {
       name: "Somalia",
-      flag: "../public/flag-somalia.png",
+      flag: "./flags/flag-somalia.png",
       currency: "Somali shilling",
       continent: "Africa",
       description:
@@ -125,7 +125,7 @@ function Countries() {
     },
     {
       name: "Turkey",
-      flag: "../public/flag-turkey.png",
+      flag: "./flags/flag-turkey.png",
       currency: "Turkish lira",
       continent: "Europe & Asia",
       description:
@@ -133,7 +133,7 @@ function Countries() {
     },
     {
       name: "United Kingdom",
-      flag: "../public/flag-united-kingdom.png",
+      flag: "./flags/flag-united-kingdom.png",
       currency: "British pound sterling",
       continent: "Europe",
       description:
@@ -141,7 +141,7 @@ function Countries() {
     },
     {
       name: "United States",
-      flag: "../public/flag-united-states.png",
+      flag: "./flags/flag-united-states.png",
       currency: "US dollar",
       continent: "North America",
       description:
@@ -149,7 +149,7 @@ function Countries() {
     },
     {
       name: "Vietnam",
-      flag: "../public/flag-vietnam.png",
+      flag: "./flags/flag-vietnam.png",
       currency: "Vietnamese dong",
       continent: "Asia",
       description:
